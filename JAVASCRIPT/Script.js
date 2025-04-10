@@ -92,10 +92,10 @@ $(document).ready(function () {
 
         if (mood === "happy") {
             response = "Great! Keep up the positive energy!";
-            moodImage = "IMAGES/Happy.jpg";
+            moodImage = "IMAGES/happy.jpg";
         } else if (mood === "neutral") {
             response = "Stay balanced and take a deep breath.";
-            moodImage = "IMAGES/Neutral.jpg";
+            moodImage = "IMAGES/neutral.jpg";
         } else if (mood === "stressed") {
             response = "Take a break, relax, and recharge.";
             moodImage = "IMAGES/stressed.jpg";
